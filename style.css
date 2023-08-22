@@ -1,0 +1,14 @@
+#group-1{
+    text-align:center;
+    width:200px;
+    background-color: rgb(253, 202, 140);
+    padding: 10px 10px 20px;
+}
+#group-2{
+    width:200px;
+    background-color:rgb(234, 220, 202);
+    padding-left:10px;
+    padding-right:10px;
+    border:5px solid black;
+    border-radius: 10px 10px 10px 10px;
+}
